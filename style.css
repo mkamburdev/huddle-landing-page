@@ -13,13 +13,14 @@ body {
     background-color: hsl(257, 40%, 49%);
     font-family: Open Sans, sans-serif;
     font-weight: 400;
+    overflow: hidden;
 }
 
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 2em 22.5em;
+    width: 1184px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
 
 .header_logo img{
@@ -123,7 +124,10 @@ footer a {
 
 @media (max-width: 1400px) {
     header {
-        padding-left: 4em;
+        width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
     }
 
     main {
@@ -134,37 +138,27 @@ footer a {
         text-align: center;
     }
 
-    .container {
-        margin-top: 45px;
-        width: 480px;
-    }
-
-    .container-left {
-        float: none; 
-        padding-right: 0; 
-        margin-bottom: 20px;
-        margin-left: auto;
-        margin-right: auto;
-        width: 100%;
-    }
-
-    .container-left img {
-        width: 100%;
-    }
-
-    .container-right {
-        margin-top: 48px;
-    }
-
-    .social-media {
-        margin-top: 30px;
-        margin-left: 0;
-    }
-
+    .social-media i{
+    color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    padding-top: 13px;
+    margin: 0 5px;
+}
 
 }
 
 @media (max-width:850px) {
+    header {
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+
     .container-left {
         width: 100%;
     }
@@ -191,6 +185,13 @@ footer a {
 }
 
 @media (max-width:500px) {
+    header {
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+
     .container {
         width: 380px;
     }
