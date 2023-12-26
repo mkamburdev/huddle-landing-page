@@ -80,6 +80,11 @@ main {
     color: white;
 }
 
+.social-media {
+    margin-top: 50px;
+    margin-left: 67em;
+}
+
 .social-media i{
     color: white;
     border: 1px solid white;
@@ -100,6 +105,7 @@ main {
 .social-media i:hover {
     color: rgb(235, 121, 250);
     border-color: rgb(235, 121, 250);
+    cursor: pointer;
 }
 
 footer {
