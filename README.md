@@ -28,11 +28,15 @@ You will find all the required assets in the `/images` folder. The assets are al
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
 ### Screenshot
-![](/)
+#### Desktop
+![](/images/huddle-landing-page-with-single-introductory-section-master-desktop.png)
+#### Mobile
+![](/images/huddle-landing-page-with-single-introductory-section-master-mobile.png)
+
 
 
 ### Links
 
-- Solution URL: [URL here]()
-- Live Site URL: [URL here]()
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-GHU4rfq2dw)
+- Live Site URL: [URL here](https://mkamburdev.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
