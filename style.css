@@ -149,6 +149,11 @@ footer a {
     margin: 0 5px;
 }
 
+    .social-media {
+    margin-top: 50px;
+    margin-left: 47em;
+}
+
 }
 
 @media (max-width:850px) {
@@ -182,6 +187,7 @@ footer a {
     .container p {
         font-size: 15px;
     }
+
 }
 
 @media (max-width:500px) {
