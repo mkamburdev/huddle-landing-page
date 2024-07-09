@@ -38,5 +38,5 @@ There is also a `style-guide.md` file containing the information you'll need, su
 ### Links
 
 - Solution URL: [URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-GHU4rfq2dw)
-- Live Site URL: [URL here](https://mkamburdev.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- Live Site URL: [URL here](https://huddle-landing-page-mk.vercel.app/)
 
